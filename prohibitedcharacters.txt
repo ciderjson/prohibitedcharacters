@@ -1,4 +1,4 @@
-void using following characters:
+Avoid using following characters:
 {
 }
 °
