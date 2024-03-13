@@ -1,0 +1,37 @@
+void using following characters:
+{
+}
+°
+^
+"
+§
+%
+=
+?
+´
+`
++
+#
+*
+~
+_
+<
+>
+|
+ä
+Ä
+ö
+Ö
+ü
+Ü
+ß
+[
+]
+-
+/
+
+You can use the following characters:
+!
+&
+(
+)
